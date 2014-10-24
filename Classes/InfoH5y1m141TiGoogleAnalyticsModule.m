@@ -33,14 +33,7 @@
 	// you *must* call the superclass
 	[super startup];
     
-//    [GAI sharedInstance].dispatchInterval  = 20;
-//    
-//    [[GAI sharedInstance]trackerWithTrackingId:@"UA-55891561-1"];
-//    id tracker = [[GAI sharedInstance]defaultTracker];
-//    
-//    [tracker set:kGAIScreenName value:@"TiGoogleAna"];
-//    [tracker send:[[GAIDictionaryBuilder createAppView] build]];
-   
+
 	
 	NSLog(@"[INFO] %@ loaded",self);
 }
