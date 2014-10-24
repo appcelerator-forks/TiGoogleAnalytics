@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.0.2
+apiversion: 2
+description: GoogleAnalytics iOS for Titanium Module
+author: Hiroshi Oyamada
+license: MIT
+copyright: Copyright© 2014 Hiroshi Oyamada
+
+
+# these should not be edited
+name: TiGoogleAnalytics
+moduleid: info.h5y1m141.TiGoogleAnalytics
+guid: 92666a5d-9658-4d8d-be37-ecbf93597ee5
+platform: iphone
+minsdk: 3.3.0.GA
